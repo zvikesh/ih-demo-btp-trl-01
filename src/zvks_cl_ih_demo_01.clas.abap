@@ -17,7 +17,7 @@ CLASS zvks_cl_ih_demo_01 IMPLEMENTATION.
 
   METHOD if_oo_adt_classrun~main.
 
-    out->write( 'Hello World' ).
+    out->write( 'Guten Tag!' ).
 
   ENDMETHOD.
 ENDCLASS.
